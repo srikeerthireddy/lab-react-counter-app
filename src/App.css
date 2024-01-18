@@ -1,0 +1,30 @@
+*{
+  background-color:rgb(185, 162, 13);
+  
+}
+h1{
+  color:white;
+  display: flex;
+  justify-content: center;
+  
+}
+
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    background-color:black;
+    color: #fff;
+    border-radius: 5px;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+  }
+  button:hover{
+    background-color:skyblue;
+    color: black;
+  }
+
